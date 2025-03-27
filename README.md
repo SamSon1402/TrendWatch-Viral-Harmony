@@ -2,6 +2,10 @@
 
 ## Overview
 
+![Image](https://github.com/user-attachments/assets/d3208f0e-e35a-4c52-8976-8808985f0ae3)
+
+![Image](https://github.com/user-attachments/assets/025dd882-316a-4f3d-8478-046306e8052d)
+
 SonicSeer™ 2040 is a futuristic application that uses advanced predictive analytics to forecast viral music trends on platforms like TikTok. This future-looking concept demonstrates how neural networks and data science can transform music marketing and artist development.
 
 The application allows users to adjust various parameters related to music style, audience connection, and viral potential to generate detailed predictions about a song's trajectory. Using simulated quantum computing concepts and neural analysis terminology, it creates an immersive, forward-looking experience.
