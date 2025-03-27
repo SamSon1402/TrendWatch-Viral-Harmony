@@ -101,4 +101,3 @@ This project is for demonstration purposes only. All code is open source under t
 
 ---
 
-**Note**: SonicSeer™ 2040 is a concept application created for demonstration purposes. The predictions are simulated and the futuristic technologies referenced (quantum neural networks, etc.) are creative projections rather than currently available technologies.
